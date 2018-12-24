@@ -8,4 +8,5 @@ import com.google.gwt.event.shared.EventHandler;
 public interface SelectPatientAppointmentEventHandler extends EventHandler {
 
 	void onPatientSelect(SelectPatientAppointmentEvent event);
+	//do this
 }
