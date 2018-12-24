@@ -1,0 +1,2 @@
+serviceClass: doctorappointmentscheduler.client.DBConnection
+path: 18B4F09AFEF4F5E1BA2C8F7C1BBEDDF6.gwt.rpc
